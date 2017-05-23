@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.e(TAG, "로그 검사");
+        Log.e(TAG, "로그 검사"); // 주석
     }
 }
